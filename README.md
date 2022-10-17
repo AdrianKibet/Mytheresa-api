@@ -5,17 +5,17 @@ Requirements for the project:
 
 Python 3.10.6 preferred though any fairly recent release should suffice
 
-create and activate virtual environment within project directory
+- create and activate virtual environment within project directory
 
-pip3 install -r requirements.txt
+- pip3 install -r requirements.txt
 
 Run Project:
 
-python app.py 
+- python app.py 
 
 Run Tests:
 
-pytest tests.py   --requires project to have been run at least once to populate db
+- pytest tests.py     --requires project to have been run at least once to populate db
 
 Notes:
 
